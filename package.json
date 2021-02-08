@@ -1,0 +1,25 @@
+{
+  "name": "PARKING-COST-CALCULATOR",
+  "version": "1.0.0",
+  "description": "Javascript tests build for parking cost calculator using puppeteer and mocha with chai",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha specs/**.js --timeout 20000 --exit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dinukacgx/PARKING-COST-CALCULATOR.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dinukacgx/PARKING-COST-CALCULATOR/issues"
+  },
+  "homepage": "https://github.com/dinukacgx/PARKING-COST-CALCULATOR#readme",
+  "devDependencies": {
+    "chai": "^4.3.0",
+    "mocha": "^8.2.1",
+    "puppeteer": "^7.0.1"
+  }
+}
