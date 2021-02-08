@@ -3,7 +3,7 @@ Javascript tests build for parking cost calculator using puppeteer and mocha wit
 
 ## Enviorenment setup to run the test
 ``` 
-git clone https://github.com/dinukacgx/PARKING-COST-CALCULATOR.git
+git clone https://github.com/eddyonsoft/PARKING-COST-CALCULATOR.git
 ``` 
 Then to go inside ```PARKING-COST-CALCULATOR``` folder execute following command
 ``` 
